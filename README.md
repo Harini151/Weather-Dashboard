@@ -10,5 +10,6 @@ A simple and responsive **Weather Dashboard** application that shows real-time w
 - 🌡️ Displays temperature, humidity, wind speed, and weather condition  
 - ⏱️ Real-time weather data using API  
 - 🎨 Clean and responsive UI  
-- 🔗 Frontend and backend connected via API  🔗 Frontend and backend connected via API 
+- 🔗 Frontend and backend connected via API 
+
 
